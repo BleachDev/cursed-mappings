@@ -10,9 +10,9 @@ maven {
     name = "cursed-mappings"
     url = "https://raw.githubusercontent.com/BleachDev/cursed-mappings/main/"
 }
-
-
 ```
+
+
 ### MCP Mappings on Legacy Fabric (1.3.2 - 1.12.2)
 To use MCP on Legacy Fabric, change the yarn_mappings property in gradle.properties to this:
 ```gradle
