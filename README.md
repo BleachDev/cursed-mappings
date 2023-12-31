@@ -1,10 +1,10 @@
 # Cursed Mappings
 
-The mapping repo hosting all the mappings you definetely shouldn't use.
+The mapping repo hosting all the mappings you definitely shouldn't use.
 
 ## Usage
 
-To use any of these mappings you must add this to the repositories block in your build.gradle file:
+To use any of these mappings you must add this repo to the `repositories` block in your build.gradle file:
 ```gradle
 maven {
     name = "cursed-mappings"
